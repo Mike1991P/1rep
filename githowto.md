@@ -46,3 +46,8 @@ git chekout
 
 
 Более подробно [по этой ссылке](https://proglib.io/p/git-for-half-an-hour "внешний ресурс")
+
+#
+как добавлять картинки в markdown
+#
+
